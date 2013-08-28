@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJDBApplication", "EJDBApplication\EJDBApplication.csproj", "{930D73AE-311B-420F-A86D-3CB20B82F539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Database\Database.csproj", "{92FD55E8-3AF9-4F59-8B61-56C35C067A0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nejdb", "nejdb\nejdb.csproj", "{A24C964C-771F-4359-8C93-4BFCBE451D8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DebugUnix|Any CPU = DebugUnix|Any CPU
+		DebugWindows|Any CPU = DebugWindows|Any CPU
+		Release|Any CPU = Release|Any CPU
+		ReleaseUnix|Any CPU = ReleaseUnix|Any CPU
+		ReleaseWindows|Any CPU = ReleaseWindows|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{930D73AE-311B-420F-A86D-3CB20B82F539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930D73AE-311B-420F-A86D-3CB20B82F539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930D73AE-311B-420F-A86D-3CB20B82F539}.DebugUnix|Any CPU.ActiveCfg = Debug|Any CPU
+		{930D73AE-311B-420F-A86D-3CB20B82F539}.DebugUnix|Any CPU.Build.0 = Debug|Any CPU
+		{930D73AE-311B-420F-A86D-3CB20B82F539}.DebugWindows|Any CPU.ActiveCfg = Debug|Any CPU
+		{930D73AE-311B-420F-A86D-3CB20B82F539}.DebugWindows|Any CPU.Build.0 = Debug|Any CPU
+		{930D73AE-311B-420F-A86D-3CB20B82F539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930D73AE-311B-420F-A86D-3CB20B82F539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{930D73AE-311B-420F-A86D-3CB20B82F539}.ReleaseUnix|Any CPU.ActiveCfg = Release|Any CPU
+		{930D73AE-311B-420F-A86D-3CB20B82F539}.ReleaseUnix|Any CPU.Build.0 = Release|Any CPU
+		{930D73AE-311B-420F-A86D-3CB20B82F539}.ReleaseWindows|Any CPU.ActiveCfg = Release|Any CPU
+		{930D73AE-311B-420F-A86D-3CB20B82F539}.ReleaseWindows|Any CPU.Build.0 = Release|Any CPU
+		{92FD55E8-3AF9-4F59-8B61-56C35C067A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92FD55E8-3AF9-4F59-8B61-56C35C067A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92FD55E8-3AF9-4F59-8B61-56C35C067A0F}.DebugUnix|Any CPU.ActiveCfg = Debug|Any CPU
+		{92FD55E8-3AF9-4F59-8B61-56C35C067A0F}.DebugUnix|Any CPU.Build.0 = Debug|Any CPU
+		{92FD55E8-3AF9-4F59-8B61-56C35C067A0F}.DebugWindows|Any CPU.ActiveCfg = Debug|Any CPU
+		{92FD55E8-3AF9-4F59-8B61-56C35C067A0F}.DebugWindows|Any CPU.Build.0 = Debug|Any CPU
+		{92FD55E8-3AF9-4F59-8B61-56C35C067A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92FD55E8-3AF9-4F59-8B61-56C35C067A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92FD55E8-3AF9-4F59-8B61-56C35C067A0F}.ReleaseUnix|Any CPU.ActiveCfg = Release|Any CPU
+		{92FD55E8-3AF9-4F59-8B61-56C35C067A0F}.ReleaseUnix|Any CPU.Build.0 = Release|Any CPU
+		{92FD55E8-3AF9-4F59-8B61-56C35C067A0F}.ReleaseWindows|Any CPU.ActiveCfg = Release|Any CPU
+		{92FD55E8-3AF9-4F59-8B61-56C35C067A0F}.ReleaseWindows|Any CPU.Build.0 = Release|Any CPU
+		{A24C964C-771F-4359-8C93-4BFCBE451D8B}.Debug|Any CPU.ActiveCfg = DebugWindows|Any CPU
+		{A24C964C-771F-4359-8C93-4BFCBE451D8B}.Debug|Any CPU.Build.0 = DebugWindows|Any CPU
+		{A24C964C-771F-4359-8C93-4BFCBE451D8B}.DebugUnix|Any CPU.ActiveCfg = DebugUnix|Any CPU
+		{A24C964C-771F-4359-8C93-4BFCBE451D8B}.DebugUnix|Any CPU.Build.0 = DebugUnix|Any CPU
+		{A24C964C-771F-4359-8C93-4BFCBE451D8B}.DebugWindows|Any CPU.ActiveCfg = DebugWindows|Any CPU
+		{A24C964C-771F-4359-8C93-4BFCBE451D8B}.DebugWindows|Any CPU.Build.0 = DebugWindows|Any CPU
+		{A24C964C-771F-4359-8C93-4BFCBE451D8B}.Release|Any CPU.ActiveCfg = ReleaseWindows|Any CPU
+		{A24C964C-771F-4359-8C93-4BFCBE451D8B}.Release|Any CPU.Build.0 = ReleaseWindows|Any CPU
+		{A24C964C-771F-4359-8C93-4BFCBE451D8B}.ReleaseUnix|Any CPU.ActiveCfg = ReleaseUnix|Any CPU
+		{A24C964C-771F-4359-8C93-4BFCBE451D8B}.ReleaseUnix|Any CPU.Build.0 = ReleaseUnix|Any CPU
+		{A24C964C-771F-4359-8C93-4BFCBE451D8B}.ReleaseWindows|Any CPU.ActiveCfg = ReleaseWindows|Any CPU
+		{A24C964C-771F-4359-8C93-4BFCBE451D8B}.ReleaseWindows|Any CPU.Build.0 = ReleaseWindows|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
